@@ -1,3 +1,3 @@
 (function () {
-  new Vivus('name-svg', { duration: 200, type: "oneByOne" });
+  new Vivus('name-svg', { duration: 300, type: "oneByOne" });
 }());
